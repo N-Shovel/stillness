@@ -44,3 +44,7 @@ main.js      scene rendering, palettes, audio and interactions
 ## Deployment
 
 Deployed on [Vercel](https://vercel.com) at https://stillness-sage.vercel.app as a static site. No configuration is needed; Vercel serves the folder as-is.
+
+## License
+
+[MIT](LICENSE)
