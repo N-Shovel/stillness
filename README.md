@@ -2,7 +2,7 @@
 
 A quiet mountain lake to rest your eyes and mind.
 
-**Live:** _deploy link coming soon_
+**Live:** https://stillness-sage.vercel.app
 
 Stillness is a calm, animated scene drawn on a `<canvas>`: mountains, a reflective lake, drifting clouds, birds by day and fireflies and stars by night. It follows your local time, or you can let the day drift by. Optional ambient sound is fully synthesized in the browser with the Web Audio API, and a breathing guide helps you slow down.
 
@@ -43,4 +43,4 @@ main.js      scene rendering, palettes, audio and interactions
 
 ## Deployment
 
-Deployed on [Vercel](https://vercel.com) as a static site. No configuration is needed; Vercel serves the folder as-is.
+Deployed on [Vercel](https://vercel.com) at https://stillness-sage.vercel.app as a static site. No configuration is needed; Vercel serves the folder as-is.
